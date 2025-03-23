@@ -46,7 +46,7 @@
 </div>
 
 ### 📜 Development Activity Snake
-![Contribution Snake](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
 ### 🧠 Development Philosophy
 ```mcfunction
