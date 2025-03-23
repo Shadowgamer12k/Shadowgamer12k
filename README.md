@@ -27,12 +27,9 @@
 
 ### 🎮 Bedrock Metrics Matrix
 ```
-+ Add-ons Created:       32
-+ Marketplace Items:    15
-+ Custom Entities:      47
++ Add-ons Created:      11
++ Marketplace Items:    0 [ not yet ]
 + Scripts Written:      28k+ lines
-+ Texture Packs:        12
-+ World Templates:      7
 ```
 
 ### 🔥 Featured Projects
