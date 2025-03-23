@@ -18,7 +18,7 @@
 [📜] GameTest Framework
 [🖥️] MCfunction Scripting
 📦 Development Stats Dashboard
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=1a1b26&hide_border=true&title_color=3DDC84&icon_color=3DDC84&include_all_commits=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=1a1b26&hide_border=true&title_color=3DDC84"> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=1a1b26&hide_border=true&title_color=3DDC84&icon_color=3DDC84&include_all_commits=true"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowgamer12k&layout=compact&theme=dark&bg_color=1a1b26&hide_border=true&title_color=3DDC84"> </div>
 🎮 Bedrock Metrics Matrix
 diff
 Copy
