@@ -46,7 +46,7 @@
 </div>
 
 ### 📜 Development Activity Snake
-![Contribution Snake](https://github.com/Shadowgamer12k/Shadowgamer12k/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/bylickilabs/bylickilabs/blob/output/github-contribution-grid-snake.svg)
 
 ### 🧠 Development Philosophy
 ```mcfunction
