@@ -37,7 +37,7 @@
 
 ### 🔥 Featured Projects
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/Awesome-Addon">
+  <a href="https://shadowgamer12k.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadowgamer12k&repo=Awesome-Addon&theme=dark&bg_color=1a1b26&title_color=3DDC84" alt="Awesome Addon">
   </a>
   <a href="https://github.com/YOUR_USERNAME/Epic-Behavior-Pack">
