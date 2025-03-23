@@ -55,7 +55,7 @@ execute as @a[tag=developer] run {
     scoreboard objectives add Innovation dummy
     scoreboard players set @s Innovation 1
     tag @s add bedrock_creator
-    effect give @s minecraft:haste 999999 5 true
+    effect @s minecraft:haste 999999 5 true
 }
 ```
 
