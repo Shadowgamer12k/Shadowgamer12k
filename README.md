@@ -32,16 +32,6 @@
 + Scripts Written:      28k+ lines
 ```
 
-### 🔥 Featured Projects
-<div align="center">
-  <a href="https://shadowgamer12k.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadowgamer12k&repo=Awesome-Addon&theme=dark&bg_color=1a1b26&title_color=3DDC84" alt="Awesome Addon">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/Epic-Behavior-Pack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadowgamer12k&repo=Epic-Behavior-Pack&theme=dark&bg_color=1a1b26&title_color=3DDC84" alt="Epic Behavior Pack">
-  </a>
-</div>
-
 ### 📜 Development Activity Snake
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
 
